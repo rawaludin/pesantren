@@ -11,6 +11,6 @@ Sebelum kontribusi, silahkan baca dulu ini [https://sites.google.com/site/pesant
 7. Code On! :punch:
 
 ### Kontribusi
-Cek card user stories di [Trello](https://trello.com/b/iBw1EFF9/user-stories), yang "doing" itu yang sedang dikerjakan. Kalau mau ngerjain salah satu user stories, boleh langsung kerjakan atau nanya dulu via [fb](https://www.facebook.com/rahmat.awaludin)/[email](mailto:rahmat.awaludin@gmail.com).
+Cek card user stories di [Trello](https://trello.com/b/iBw1EFF9/user-stories), yang "doing" itu yang sedang dikerjakan. Kalau mau ngerjain salah satu user stories, boleh langsung kerjakan atau nanya dulu dengan membuat [issue](https://github.com/rahmatawaludin/pesantren/issues) dengan menyertakan user stories yang hendak dikerjakan.
 
 Kalau fitur udah jadi, kirim pull request. Nanti saya cek. Thanks! :)
