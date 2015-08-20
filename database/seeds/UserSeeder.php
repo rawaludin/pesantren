@@ -25,12 +25,12 @@ class UserSeeder extends Seeder
         $admin->save();
 
         // create permission
-        $memberPlaylist = new Permission();
+        $memberPlaylist = new App\Permission();
         $memberPlaylist->name         = 'member-playlist';
         $memberPlaylist->display_name = 'Manage Playlist by Member (self)';
         $memberPlaylist->save();
 
-        $adminPlaylist = new Permission();
+        $adminPlaylist = new App\Permission();
         $adminPlaylist->name         = 'admin-playlist';
         $adminPlaylist->display_name = 'Manage Playlist by Admin';
         $adminPlaylist->save();
